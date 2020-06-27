@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>gradiadsense</name>
+	<displayName><![CDATA[Gradi Adsense]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Banner para Publicidad]]></description>
+	<author><![CDATA[www.gradi.co]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
